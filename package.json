@@ -1,6 +1,6 @@
 {
-  "name": "@johnrjj/micro",
-  "version": "9.3.4",
+  "name": "micro-with-callback",
+  "version": "9.3.5",
   "description": "Asynchronous HTTP microservices",
   "main": "./lib/index.js",
   "files": [
